@@ -1,0 +1,9 @@
+C:\Users\fedor\source\repos\test2\test2\obj\Debug\test2.csprojAssemblyReference.cache
+C:\Users\fedor\source\repos\test2\test2\obj\Debug\test2.Form1.resources
+C:\Users\fedor\source\repos\test2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\fedor\source\repos\test2\test2\obj\Debug\test2.csproj.GenerateResource.cache
+C:\Users\fedor\source\repos\test2\test2\bin\Debug\test2.exe.config
+C:\Users\fedor\source\repos\test2\test2\bin\Debug\test2.exe
+C:\Users\fedor\source\repos\test2\test2\bin\Debug\test2.pdb
+C:\Users\fedor\source\repos\test2\test2\obj\Debug\test2.exe
+C:\Users\fedor\source\repos\test2\test2\obj\Debug\test2.pdb
